@@ -23,3 +23,6 @@ The diagram is exported to ".csv"
 ## Drawing
 
 To draw your diagram use a "process" element to start and insert a "decision" element between one "process" and another until it reaches the end of the flow that is indicated by the element "terminator"
+
+	
+Example: https://www.lucidchart.com/invitations/accept/0ff79aa7-f57c-4353-826d-e788d350ef12
