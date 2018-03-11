@@ -1,0 +1,43 @@
+Id,Name,Shape Library,Page ID,Contained By,Line Source,Line Destination,Source Arrow,Destination Arrow,Text Area 1
+1,Page,,,,,,,,Page 1
+2,Process,Flowchart Shapes,1,,,,,,Iniciar teste
+3,Decision,Flowchart Shapes,1,,,,,,Gosta de ganhar dinheiro?
+4,Decision,Flowchart Shapes,1,,,,,,Tem medo de perder dinheiro?
+5,Decision,Flowchart Shapes,1,,,,,,Tem conhecimento sobre bolsa de valores?
+6,Decision,Flowchart Shapes,1,,,,,,Fez algum tipo de investimento nos ultimos anos?
+7,Decision,Flowchart Shapes,1,,,,,,Tem medo de arriscar?
+8,Decision,Flowchart Shapes,1,,,,,,Você planeja seus gastos?
+9,Process,Flowchart Shapes,1,,,,,,Temos algo em comum ;)
+10,Process,Flowchart Shapes,1,,,,,,Perder dinheiro realmente não é legal
+11,Process,Flowchart Shapes,1,,,,,,Você é dos meus  :D
+12,Process,Flowchart Shapes,1,,,,,,Conhecimento sobre investimento é algo bom
+13,Process,Flowchart Shapes,1,,,,,,Se foi na bolsa de valores depois me conte como foi sua experiência
+14,Process,Flowchart Shapes,1,,,,,,Acho que já tenho algumas dicas para você
+15,Process,Flowchart Shapes,1,,,,,,Pra finalizar
+16,Decision,Flowchart Shapes,1,,,,,,Caso ganhe uma quantia considerável teria vontade de continuar investindo?
+17,Terminator,Flowchart Shapes,1,,,,,,Você não é normal
+18,Terminator,Flowchart Shapes,1,,,,,,Moderado
+19,Terminator,Flowchart Shapes,1,,,,,,Conservador
+20,Terminator,Flowchart Shapes,1,,,,,,Arrojado
+21,Line,,1,,2,3,None,Arrow,
+22,Line,,1,,3,9,None,Arrow,Yes
+23,Line,,1,,9,4,None,Arrow,
+24,Line,,1,,4,10,None,Arrow,Yes
+25,Line,,1,,4,11,None,Arrow,No
+26,Line,,1,,10,5,None,Arrow,
+27,Line,,1,,11,5,None,Arrow,
+28,Line,,1,,5,12,None,Arrow,Yes
+29,Line,,1,,12,6,None,Arrow,
+30,Line,,1,,6,13,None,Arrow,Yes
+31,Line,,1,,13,7,None,Arrow,
+32,Line,,1,,7,14,None,Arrow,Yes
+33,Line,,1,,14,8,None,Arrow,
+34,Line,,1,,5,14,None,Arrow,No
+35,Line,,1,,6,14,None,Arrow,No
+36,Line,,1,,7,20,None,Arrow,No
+37,Line,,1,,8,18,None,Arrow,No
+38,Line,,1,,8,15,None,Arrow,Yes
+39,Line,,1,,15,16,None,Arrow,
+40,Line,,1,,16,18,None,Arrow,Yes
+41,Line,,1,,16,19,None,Arrow,No
+42,Line,,1,,3,17,None,Arrow,No
